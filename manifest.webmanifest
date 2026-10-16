@@ -1,0 +1,13 @@
+{
+  "name": "远洋货轮日志",
+  "short_name": "货轮日志",
+  "description": "从甲板新人到船长，再到一支船队的创建者。",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#10283a",
+  "theme_color": "#102f46",
+  "icons": [
+    {"src":"assets/images/icon.png","sizes":"1254x1254","type":"image/png","purpose":"any maskable"}
+  ]
+}
